@@ -28,7 +28,7 @@ FriendlEcom es una aplicación web orientada al mercado chileno que permite expl
 
 ## Compatibilidad de componentes
 
-Una de las funcionalidades distintivas de FriendlEcom es la incorporación de relaciones entre determinados componentes de PC. El sistema utiliza estas relaciones para ayudar a identificar compatibilidades e incompatibilidades entre procesadores, placas madre y memorias RAM durante la exploración de productos.
+Una de las funcionalidades distintivas de FriendlEcom es la incorporación de relaciones entre componentes de PC. El sistema utiliza estas relaciones para ayudar a identificar compatibilidades e incompatibilidades entre procesadores, placas madre y memorias RAM durante la exploración de productos con un compatibility builder y asistencia dinámica de mensajes desplegables.
 
 ![Compatibilidad de componentes](mysite/docs/images/compatibilidad.PNG)
 
