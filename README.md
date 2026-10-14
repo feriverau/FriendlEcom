@@ -4,6 +4,8 @@
 
 FriendlEcom es una aplicación web orientada al mercado chileno que permite explorar un catálogo de productos tecnológicos, gestionar un carrito de compras y realizar pedidos. El proyecto incorpora, además, funcionalidades de compatibilidad entre componentes de PC para facilitar la selección de hardware.
 
+![Catálogo de FriendlEcom](docs/images/catalogo.png)
+
 ## Tecnologías
 
 - **Backend:** Python, Django
@@ -27,6 +29,8 @@ FriendlEcom es una aplicación web orientada al mercado chileno que permite expl
 ## Compatibilidad de componentes
 
 Una de las funcionalidades distintivas de FriendlEcom es la incorporación de relaciones entre determinados componentes de PC. El sistema utiliza estas relaciones para ayudar a identificar compatibilidades e incompatibilidades entre procesadores, placas madre y memorias RAM durante la exploración de productos.
+
+![Compatibilidad de componentes](docs/images/compatibilidad.png)
 
 ## Arquitectura
 
