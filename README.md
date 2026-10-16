@@ -36,7 +36,11 @@ Una de las funcionalidades distintivas de FriendlEcom es la incorporación de re
 
 FriendlEcom utiliza una arquitectura monolítica basada en Django. La lógica de negocio, el acceso a datos y la generación de las páginas web se gestionan desde la aplicación, utilizando las plantillas de Django para renderizar la interfaz.
 
+![Diagrama de Arquitectura](mysite/docs/images/diagrama_de_arquitectura.png)    
+
 La aplicación utiliza PostgreSQL para la persistencia de datos y servicios externos para el despliegue y el almacenamiento de imágenes.
+
+![Modelo de datos ER](mysite/docs/images/modelo_ER_friendlecom.png)   
 
 ## Estado del proyecto
 
